@@ -1,0 +1,1 @@
+print("Hello World\nmy name is prem kumar\nmy roll no bwu/bts/24/413.")
